@@ -1,0 +1,44 @@
+.pd12 {
+  padding: 12px;
+}
+.pd20 {
+  padding: 20px;
+}
+
+.pdBox016 {
+  padding: 0 16px;
+}
+
+.pdb80 {
+  padding-bottom: 80px !important;
+}
+
+
+.mg0 {
+  margin: 0 !important;
+}
+
+.mt10 {
+  margin-top: 10px !important;
+}
+
+.notUse {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  font-size: 0;
+  line-height: 0;
+  overflow: hidden;
+}
+
+.kbdUp{
+  padding-bottom: 98px;
+}
+
+.textBlue {
+  color: $mainBlue;
+}
+
+.noSchedule {
+  text-align: center;
+}
